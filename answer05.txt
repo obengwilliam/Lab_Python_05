@@ -1,0 +1,20 @@
+'''
+creator:obeng william
+description:Solution to Lab05 problem 1
+'''
+
+#a
+This functions 51
+
+#b
+This returns an error because argument for the do function must be two
+
+#c
+This returns 25 and print 8 
+
+#d
+The function returns none  and the print statements outputs ['one','two','three','four']
+
+
+#e
+this code print 72
